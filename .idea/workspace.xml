@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f486944-e78b-4030-8c47-37d5e5de9ee7" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/app/controllers/streamdata.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/app/controllers/webserver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/app/models/base.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/app/models/candle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/app/models/dfcandle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/app/views/chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/app/views/google.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/bitflyer/bitflyer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/gotrading/utils/logging.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/practice/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/practice/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/practice/mylib/math.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/practice/mylib/math_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/practice/section13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/bitcoin/practice/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/practice/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/practice/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/practice/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO/practice/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/database/database.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/database/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/database/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/database/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/database/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/database/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/docker/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../memo/linux_tcp_ip/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React" beforeDir="false" afterPath="$PROJECT_DIR$/../../../React" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typescript/20220602" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typescript/20220703" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Typescript/20220703" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typescript/20220717" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Typescript/20220717" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typescript/my-app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typescript/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/app" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/kaihi/create_app" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/kaihi/create_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/kaihi/latest" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/kaihi/latest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/kaihi/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/kaihi/my-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/kaihi/sample" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/kaihi/sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/kaihi/test/next-sample" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/kaihi/test/next-sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/kaihi/test/storybook_typescript" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/kaihi/test/storybook_typescript" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/kaihi/work20220815" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/kaihi/work20220815" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next/new-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next/new-app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QOalEG73cubUQ2Qq0ijQ5QkSKp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/work/programming/nextjs",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="1f486944-e78b-4030-8c47-37d5e5de9ee7" name="変更" comment="" />
+      <created>1685227233965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685227233965</updated>
+      <workItem from="1685227237659" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
